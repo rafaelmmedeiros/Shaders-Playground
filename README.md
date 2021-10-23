@@ -3,6 +3,6 @@ Case study of Mirror Asset.
 
 ## Main Concepts
 
-- Shaders Study..
+- Shaders Study...
 
 ## Final Result
