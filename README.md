@@ -6,3 +6,11 @@ Case study of Mirror Asset.
 - Shaders Study...
 
 ## Final Result
+
+- Study 1 - Shader Basics.
+
+<img src="https://github.com/rafaelmmedeiros/Shaders-Playground/blob/master/Assets/Showroom/1.png" width="720" height=""/>
+
+- Study 2 - Bump Amount with Normal Map and albedo texture.
+
+<img src="https://github.com/rafaelmmedeiros/Shaders-Playground/blob/master/Assets/Showroom/2-BumpAmount.png" width="720" height=""/>
