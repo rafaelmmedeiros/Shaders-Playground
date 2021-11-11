@@ -9,7 +9,7 @@ Case study of Mirror Asset.
 
 - Study 3 - Bump Amount with texture bump scale tweeked.
 
-<img src="https://github.com/rafaelmmedeiros/Shaders-Playground/blob/master/Assets/Showroom/2-BumpAmount.png" width="720" height=""/>
+<img src="https://github.com/rafaelmmedeiros/Shaders-Playground/blob/master/Assets/Showroom/2-BumpAmount2.png" width="720" height=""/>
 
 - Study 2 - Bump Amount with Normal Map and albedo texture.
 
