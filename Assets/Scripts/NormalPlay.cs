@@ -5,7 +5,6 @@ using UnityEngine;
 [ExecuteInEditMode]
 public class NormalPlay : MonoBehaviour
 {
-
     public Vector3 normal = new Vector3(0, 1, 0);
 
     [Range(1.0f, 10.0f)]
